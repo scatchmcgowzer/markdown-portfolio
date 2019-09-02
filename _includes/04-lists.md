@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- I like food
+- I like movies
+- I like books
+- People, meh... not so much
