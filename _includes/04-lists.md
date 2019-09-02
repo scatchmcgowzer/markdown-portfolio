@@ -1,0 +1,4 @@
+- I like food
+- I like movies
+- I like books
+- People, meh... not so much
